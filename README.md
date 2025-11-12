@@ -14,7 +14,7 @@
   <a href="mailto:contact@devsantu.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/DevSantu-WebCrazeo">
+  <a href="https://github.com/TechSantu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -23,13 +23,13 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSantu-WebCrazeo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantu-WebCrazeo&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechSantu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSantu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevSantu-WebCrazeo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechSantu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -150,7 +150,7 @@ Specialized in performance optimization, cross-browser testing, and WCAG accessi
   <a href="mailto:contact@devsantu.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/DevSantu-WebCrazeo">
+  <a href="https://github.com/TechSantu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -180,7 +180,7 @@ Specialized in performance optimization, cross-browser testing, and WCAG accessi
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DevSantu-WebCrazeo&color=667EEA&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=TechSantu&color=667EEA&style=flat-square" alt="Profile Views" />
 
 <br>
 
