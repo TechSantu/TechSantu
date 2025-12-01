@@ -22,10 +22,10 @@
 <br>
 
 <!-- GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TechSantu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechSantu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+</p> -->
 
 <!-- GitHub Streak -->
 <p align="center">
